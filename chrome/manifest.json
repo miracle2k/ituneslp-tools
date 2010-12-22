@@ -1,0 +1,17 @@
+{
+  "name": "iTunes LP/Extras Support",
+  "version": "0.1",
+  "description": "Adds the ability to run iTunes LP's and iTunes Extras in Chrome.",
+  "background_page": "background.html",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["itunes.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": [
+     "<all_urls>"
+  ]
+}
