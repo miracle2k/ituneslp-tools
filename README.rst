@@ -1,4 +1,7 @@
-Tools to work with iTunes LP / iTunes Extras projects.
+=====================================================
+Tools to work with iTunes LP / iTunes Extras projects
+=====================================================
+
 
 Contents:
 
@@ -21,3 +24,7 @@ Other ideas
 - Convert DVD menus to TuneKit. Since background video is not allowed by iTunes LP, this would be limited.
 
 
+Other code
+==========
+
+https://github.com/Solitude/iTunes-Emulator does a similar thing and seems more advanced.
