@@ -6,6 +6,7 @@ Tools to work with iTunes LP / iTunes Extras projects
 Contents:
 
 - ./chrome: Extension to play iTunes LP in Chrome.
+- ./standalone: Try to wrap WebKit in a GTK app.
 
 
 Notes on other browsers
